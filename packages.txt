@@ -1,0 +1,15 @@
+tesseract-ocr
+tesseract-ocr-eng
+tesseract-ocr-spa
+tesseract-ocr-fra
+tesseract-ocr-deu
+tesseract-ocr-ita
+tesseract-ocr-chi-sim
+tesseract-ocr-chi-tra
+tesseract-ocr-jpn
+tesseract-ocr-hin
+tesseract-ocr-kor
+tesseract-ocr-rus
+tesseract-ocr-ben
+tesseract-ocr-tam
+tesseract-ocr-urd
