@@ -3,6 +3,21 @@ import cv2
 import numpy as np
 from PIL import Image
 import pytesseract
+import streamlit as st
+
+# Meta tag to allow iframe embedding
+st.markdown(
+    """
+    <style>
+    iframe {
+        width: 100%;
+        height: 100vh;
+        border: none;
+    }
+    </style>
+    """, 
+    unsafe_allow_html=True
+)
 
 # Supported languages for OCR
 language_options = {
